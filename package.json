@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/mariorents/liri_node_app#readme",
   "dependencies": {
+    "axios": "^0.19.0",
+    "bandsintown-events": "^1.0.4",
     "dotenv": "^8.0.0",
     "node-spotify-api": "^1.1.1"
   }
